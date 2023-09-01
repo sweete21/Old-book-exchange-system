@@ -1,19 +1,19 @@
 # Old-book-exchange-system<br>
 #Hello everyone,
-*This is a project which provides a system to exchange your old books . By providing you two options:-either take book with a condition (it must exist on database) or give book which will be added to data base
+* This is a project which provides a system to exchange your old books . By providing you two options:-either take book with a condition (it must exist on database) or give book which will be added to data base
 <br>
-*Technologies used:-PHP, mysql,bootsrap,CSS
+* Technologies used:-PHP, mysql,bootsrap,CSS
 
 # Note:- 
-The databases used in this system is in registration.sql file<br>
-In which<br>
-*Manually created databases are:-registration <br>
-and all other databases are build-in databases by mysql
+  The databases used in this system is in registration.sql file<br>
+  In which<br>
+* Manually created databases are:-registration <br>
+  and all other databases are build-in databases by mysql
 
 
 
 # Advantages
-*It can be useful management sytsem in many work places (eg.school,stores etc)
+* It can be useful management sytsem in many work places (eg.school,stores etc)
 
 # Disadvantages
 * It can be further modified into more advanced sytem
