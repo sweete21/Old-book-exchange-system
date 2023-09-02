@@ -112,9 +112,7 @@ if (isset($_GET['alert'])) {
           <li class="nav-item">
             <a class="nav-link" href="login.php">Login</a>
           </li>  
-          <li class="nav-item">
-            <a class="nav-link" href="goodmorning.php">Welcome </a>
-          </li>  
+
         </ul>
       </div>
     </nav>
